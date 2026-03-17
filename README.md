@@ -2,8 +2,8 @@
 A simple and creative Truck Delivery Animation built using HTML, CSS, and JavaScript.
 This project simulates a truck transporting and delivering a package using smooth front-end animations.
 # 🌐 Live Demo
-👉 <a href="https://truckdeliverycodeaasunny.netlify.app/">Click here to see the live preview</a>
-https://truckdeliverycodeaasunny.netlify.app/
+👉 <a href="https://truck-delivery-code-aasunny.blackparrotfedora.workers.dev/">Click here to see the live preview</a>
+https://truck-delivery-code-aasunny.blackparrotfedora.workers.dev/
 # 📌 Features
 🚚 Animated truck movement
 📦 Package delivery effect
